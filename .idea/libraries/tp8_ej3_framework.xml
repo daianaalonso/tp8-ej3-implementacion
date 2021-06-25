@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="tp8-ej3-framework">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../tp8-ej3-framework/out/artifacts/tp8_ej3_framework_jar/tp8-ej3-framework.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
